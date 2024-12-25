@@ -1,6 +1,7 @@
 - Hi, I’m @HellgrenR
--  I’m not sure what I'm interested in yet
--  I’m currently learning JavaScript, Python and C#
+-  I enjoy learning
+-  I mainly work in JavaScript, TypeScript and Python
+-  I know a bit of C#, want to expand my knowledge
 
 
 <!---
